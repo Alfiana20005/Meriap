@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774929475055",
+    "project_id": "meriap-d7c16",
+    "storage_bucket": "meriap-d7c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774929475055:android:bf2f8181791b0e1eb8021a",
+        "android_client_info": {
+          "package_name": "com.test.meriap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774929475055-nmkkgoqmmlambqnlorlf7b0es96em5o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwL1W9mBfUhtB1n01_7ejR673GU2wARz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774929475055-nmkkgoqmmlambqnlorlf7b0es96em5o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
